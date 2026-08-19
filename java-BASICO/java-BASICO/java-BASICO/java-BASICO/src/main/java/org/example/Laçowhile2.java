@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Laçowhile2 {
     static void main (){
-        Scanner ler = new Scanner(System.in)
+        Scanner ler = new Scanner(System.in);
 
         int avaliacao;
             do {
